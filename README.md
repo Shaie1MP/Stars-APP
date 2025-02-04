@@ -21,7 +21,7 @@ Este es un proyecto de Desarrollo de Software Web (DSW) que permite a los usuari
 ## 📂 Estructura del proyecto
 
 ```
-📁 proyecto-valoracion-productos
+📁 UT6_SP_MontesdeocaPugaShaiel
 │── 📂 css (Estilos CSS para la interfaz)
 │── 📂 includes (Archivos reutilizables y configuraciones)
 │── 📂 js (Código JavaScript para interactividad)
